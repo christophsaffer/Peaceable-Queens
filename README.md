@@ -1,4 +1,4 @@
-=== Peaceable Armies Of N Queens ===
+### Peaceable Armies Of N Queens ###
 
 Problem description: 
 
